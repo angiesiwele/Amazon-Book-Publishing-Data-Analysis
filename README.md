@@ -1,4 +1,4 @@
-# Amazon-Book-Publishing-Data-Analysis
+# Book-Publishing-Data-Analysis
 As a contracted data analyst, you’ve been given a dataset of published books and their details for analysis. The data needs to be cleaned and wrangled in order to generate the required and relevant visualizations to help managers make decisions. The managers are not technically savvy, as a result, you’ve been given high-level instructions on what to do with the data.
 
 Before creating visual reports, you must first determine the dimensions (size) of the dataset, in order to get a general idea of the data. The managers have also expressed a desire to use a standard naming convention for all columns (either using underscores or using camel case), and that there shouldn’t be any null values in the data.
